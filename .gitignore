@@ -1,0 +1,15 @@
+node_modules/
+.local/
+.cache/
+.upm/
+.replit
+replit.nix
+.config/
+.npm/
+.pnpm-store/
+*.log
+.DS_Store
+.env
+.env.*
+artifacts/
+.local/
